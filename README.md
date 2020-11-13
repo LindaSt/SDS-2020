@@ -1,5 +1,5 @@
 # SDS-2020
-This repository provides all the code used to run the experiments for the SDS 2020 short paper "Effects of Graph Pooling Layers on Classificationwith Graph Neural Networks". The paper can be accessed [here](linktbd).
+This repository provides all the code used to run the experiments for the SDS 2020 short paper "Effects of Graph Pooling Layers on Classificationwith Graph Neural Networks". The paper can be accessed [here](https://ieeexplore.ieee.org/abstract/document/9145008).
 
 The experiments for the AIDS and Letter datasest were done using the **Gale framework** for reproducible research, which can be found [here](https://github.com/v7labs/Gale). Follow the installation process provided on their GitHub to install the python environment.
 To run one of the graph neural network classifictaion task, simply use this 
